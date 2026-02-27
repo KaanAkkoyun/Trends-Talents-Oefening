@@ -1,0 +1,6 @@
+name: LuckyPrisonCore
+version: '1.0-SNAPSHOT'
+main: me.kaan.luckyprison.luckyPrisonCore.LuckyPrisonCore
+api-version: '1.21'
+author: Kaan
+description: De unieke LuckyPrison ervaring van Savaer.
